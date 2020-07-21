@@ -1,4 +1,3 @@
-フォーク投げれました！  
 # fleamarket_sample_78c[![Image from Gyazo](https://i.gyazo.com/afd826f59ce163459cce893fdee84325.jpg)](https://gyazo.com/afd826f59ce163459cce893fdee84325)
 ## 本番環境　http://54.199.32.127/  
 ### basic認証　ユーザー: user　パス: pass  
